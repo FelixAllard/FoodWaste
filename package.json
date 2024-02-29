@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FelixAllard/WorldHunger.git"
+    "url": "git+https://github.com/FelixAllard/FoodWaste.git"
   },
   "author": "Felix, Adem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FelixAllard/WorldHunger/issues"
+    "url": "https://github.com/FelixAllard/FoodWaste/issues"
   },
-  "homepage": "https://github.com/FelixAllard/WorldHunger#readme",
+  "homepage": "https://github.com/FelixAllard/FoodWaste#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
